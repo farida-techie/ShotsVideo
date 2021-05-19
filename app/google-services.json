@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712961307541",
+    "project_id": "shotvideoapp",
+    "storage_bucket": "shotvideoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712961307541:android:f779f392565a78f014fc9c",
+        "android_client_info": {
+          "package_name": "com.malkinfo.shotsvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712961307541-pk7o1fusn79rh753vehidiu3pmk4esvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXG-wttPBfJ5Tuom8PRxegMWGaxnL2TG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712961307541-pk7o1fusn79rh753vehidiu3pmk4esvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
